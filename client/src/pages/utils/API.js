@@ -3,10 +3,10 @@ import axios from "axios";
 export default {
   // Gets all Repos
   getRepo: function() {
-    return axios.get("/api/repos");
+    return axios.get("/api/repo");
   },
   // Gets the repo with the given id
-  getRepo: function(id) {
+  getRepoById: function(id) {
     return axios.get("/api/repos/" + id);
   },
   // Deletes the repo with the given id

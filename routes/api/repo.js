@@ -1,16 +1,16 @@
 const router = require("express").Router();
-const booksController = require("../../controllers/repoController");
+const repoController = require("../../controllers/repoController");
 
 
 router.route("/")
-  .get(booksController.findAll)
-  .post(booksController.create);
+  .get(repoController.findAll)
+  .post(repoController.create);
 
 
 router
   .route("/:id")
-  .get(booksController.findById)
-  .put(booksController.update)
-  .delete(booksController.remove);
+  .get(repoController.findById)
+  .put(repoController.update)
+  .delete(repoController.remove);
 
 module.exports = router;

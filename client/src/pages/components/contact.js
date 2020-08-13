@@ -32,13 +32,6 @@ class Contact extends Component {
 
                 <ListItem>
                   <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
-                    <i className="fa fa-fax" aria-hidden="true"/>
-                    (201) 428-8118
-                  </ListItemContent>
-                </ListItem>
-
-                <ListItem>
-                  <ListItemContent style={{fontSize: '30px', fontFamily: 'Anton'}}>
                     <i className="fa fa-envelope" aria-hidden="true"/>
                     ardavictoria@gmail.com
                   </ListItemContent>
