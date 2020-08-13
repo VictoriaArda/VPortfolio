@@ -31,12 +31,15 @@ React
 React-router-dom
 Bootstrap
 
+### Screenshots
 
+Live App View
+![Live App View Screen Shot](C:\Users\Victoria\Desktop\VPortfolio\client\src\pages\components\img\portfolio.PNG)
 
 ## Deployment
 
 Github Repo: https://github.com/VictoriaArda/VPortfolio
-Heroku Deployed App: 
+Heroku Deployed App: https://reacttheportfolio.herokuapp.com/
 
 ## Author
 
