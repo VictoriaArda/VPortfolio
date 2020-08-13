@@ -34,7 +34,7 @@ Bootstrap
 ### Screenshots
 
 Live App View
-![Live App View Screen Shot](C:\Users\Victoria\Desktop\VPortfolio\client\src\pages\components\img\portfolio.PNG)
+![Live App View Screen Shot](https://github.com/VictoriaArda/VPortfolio/blob/master/client/src/pages/components/img/portfolio.PNG)
 
 ## Deployment
 
